@@ -47,10 +47,6 @@ Jobby-App is a modern job search platform designed to simplify the job-hunting e
   
   - **Multiple Filters:**
     - If multiple filters are applied, a **GET request** is made combining all applied filters.
-    - Example URL for filtering:
-      ```
-      https://apis.ccbp.in/jobs?employment_type=FULLTIME,PARTTIME&minimum_package=1000000&search=
-      ```
 
 - **Empty Job List Handling:**
   - If no jobs match the search and filters, a **No Jobs View** is displayed.
