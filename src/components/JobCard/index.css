@@ -1,0 +1,102 @@
+.company-logo-img {
+  height: 60px;
+  width: 60px;
+  border-radius: 10px;
+  margin-right: 15px;
+}
+.title-heading {
+  color: #ffffff;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+.list-container {
+  background-color: #272727;
+  width: 800px;
+  list-style-type: none;
+  padding: 25px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+.container11 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.container12 {
+  display: flex;
+  align-items: center;
+}
+.container13 {
+  display: flex;
+  flex-direction: column;
+}
+.rating-para {
+  color: #ffffff;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+.star {
+  color: #fbbf24;
+  margin-right: 5px;
+  font-size: 20px;
+}
+.container15 {
+  display: flex;
+  align-items: center;
+}
+.location {
+  color: #ffffff;
+  font-size: 20px;
+  margin-right: 5px;
+}
+.para-location {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin-right: 20px;
+}
+.bag {
+  color: #ffffff;
+  font-size: 20px;
+  margin-right: 5px;
+}
+.para-employmentType {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.para-package {
+  color: #ffffff;
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+.container14 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.para-heading {
+  color: #ffffff;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.para-desc {
+  color: #cbd5e1;
+  font-size: 16px;
+  margin-top: 0px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  line-height: 1.8;
+}
+.container16 {
+  display: flex;
+  flex-direction: column;
+}
+.item-Link {
+  text-decoration: none;
+}

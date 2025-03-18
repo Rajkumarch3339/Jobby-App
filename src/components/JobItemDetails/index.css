@@ -1,0 +1,236 @@
+.jobDetails-page-container {
+  background-color: #000000;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.containerx1 {
+  background-color: #272727;
+  width: 80vw;
+  padding: 30px;
+  border-radius: 10px;
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+.containerx2 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.job-company-logo-img {
+  height: 60px;
+  width: 60px;
+  border-radius: 10px;
+  margin-right: 15px;
+}
+.containerx3 {
+  display: flex;
+  flex-direction: column;
+}
+.job-title-heading {
+  color: #ffffff;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+.containerx4 {
+  display: flex;
+  align-items: center;
+}
+.starx {
+  color: #fbbf24;
+  margin-right: 5px;
+  font-size: 20px;
+}
+.job-rating-para {
+  color: #ffffff;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+.containerx5 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.containerx6 {
+  display: flex;
+  align-items: center;
+}
+.locationx {
+  color: #ffffff;
+  font-size: 20px;
+  margin-right: 5px;
+}
+.job-para-location {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin-right: 20px;
+}
+.bagx {
+  color: #ffffff;
+  font-size: 20px;
+  margin-right: 5px;
+}
+.job-para-employmentType {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.job-para-package {
+  color: #ffffff;
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+.containerx7 {
+  display: flex;
+  flex-direction: column;
+}
+.job-para-heading {
+  color: #ffffff;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.job-para-desc {
+  color: #cbd5e1;
+  font-size: 18px;
+  margin-top: 0px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  line-height: 1.8;
+}
+.containerx8 {
+  display: flex;
+  align-items: center;
+  color: #6366f1;
+}
+.anker {
+  text-decoration: none;
+  color: #6366f1;
+  margin-right: 5px;
+}
+.containerx9 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.headingx1 {
+  color: #ffffff;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.skills-list-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-left: 0px;
+}
+.containerx10 {
+  display: flex;
+  flex-direction: column;
+}
+.skill-item {
+  width: 350px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.item-image {
+  height: 50px;
+  width: 50px;
+  margin-right: 15px;
+}
+.item-para {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.containerx11 {
+  display: flex;
+  flex-direction: column;
+}
+.containerx12 {
+  display: flex;
+  justify-content: space-between;
+}
+.company-img {
+  height: 200px;
+  width: 200px;
+  margin-left: 30px;
+  flex-grow: 1;
+  max-width: 450px;
+  background-size: cover;
+}
+.job-para-desc1 {
+  color: #cbd5e1;
+  font-size: 18px;
+  margin-top: 0px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  width: 600px;
+  line-height: 1.8;
+}
+.similar-items-list {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 80vw;
+  padding-left: 0px;
+}
+.similar-item {
+  background-color: #272727;
+  width: 300px;
+  list-style-type: none;
+  padding: 25px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  margin-right: 50px;
+}
+.center-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.similar-render {
+  display: flex;
+  flex-direction: column;
+}
+.headingx2 {
+  color: #ffffff;
+  font-size: 23px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.para-descy1 {
+  color: #cbd5e1;
+  font-size: 14px;
+  margin-top: 0px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  line-height: 1.8;
+}
+.para-locationy1 {
+  color: #ffffff;
+  font-size: 13px;
+  font-family: 'Roboto';
+  margin-right: 20px;
+}
+.para-employmentTypey1 {
+  color: #ffffff;
+  font-size: 13px;
+  font-family: 'Roboto';
+}

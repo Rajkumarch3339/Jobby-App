@@ -1,0 +1,39 @@
+.nav-header {
+  height: 10vh;
+  background-color: #272727;
+}
+.nav-container {
+  margin-left: 40px;
+  margin-right: 40px;
+  padding-top: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.website-logo-image {
+  height: 40px;
+  width: 130px;
+}
+.nav-menu {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+.nav-link {
+  text-decoration: none;
+  margin-left: 20px;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 18px;
+  margin-right: 20px;
+}
+.buttonx {
+  background-color: #6366f1;
+  color: #ffffff;
+  border: 0px;
+  width: 100px;
+  padding: 8px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}
